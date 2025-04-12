@@ -7,4 +7,4 @@ This project is intended to participate in the 2025 Google Solution Challenge in
 2025-03-26 ~ 
 
 ### System Architecture
-![](./presentation/architecture.png)
+![](./presentation/architecture2.png)
